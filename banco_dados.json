@@ -1,0 +1,69 @@
+{
+  "lucas@gmail": {
+    "titular": "Lucas",
+    "usuario": "lucas@gmail",
+    "salt": "c4528ae9199a775838a93b66efecc3fe",
+    "senha_hash": "0d2da636f71b62c31be2036168da8d51742b3e0b08f9de23223843f0a7f941db",
+    "numero": "76222805",
+    "saldo": "1000.00",
+    "cofrinho": "0.00",
+    "limite_pix_diario": "5000.00",
+    "chaves_pix": {
+      "email": "lucas@gmail"
+    },
+    "cartoes": [],
+    "transacoes": [
+      {
+        "tipo": "Depósito",
+        "valor": "1000.00",
+        "descricao": "",
+        "saldo_apos": "1000.00",
+        "data": "2026-10-01T19:54:52",
+        "id": "0d901eae"
+      }
+    ],
+    "tentativas_falhas": 0,
+    "bloqueada": false
+  },
+  "maria@gmail": {
+    "titular": "Maria",
+    "usuario": "maria@gmail",
+    "salt": "f6153fb256828a5cd15ff9c75943c10e",
+    "senha_hash": "723416659c3d1eb39ac75606f457a41688016eae141e785e6448c53509561a22",
+    "numero": "96195662",
+    "saldo": "500.00",
+    "cofrinho": "0.00",
+    "limite_pix_diario": "5000.00",
+    "chaves_pix": {
+      "email": "maria@gmail.com"
+    },
+    "cartoes": [],
+    "transacoes": [
+      {
+        "tipo": "Depósito",
+        "valor": "500.00",
+        "descricao": "",
+        "saldo_apos": "500.00",
+        "data": "2026-10-01T19:54:53",
+        "id": "9130c2d5"
+      }
+    ],
+    "tentativas_falhas": 0,
+    "bloqueada": false
+  },
+  "lucasgit": {
+    "titular": "lucs lourenço lopes",
+    "usuario": "lucasgit",
+    "salt": "552285d96ab7354f96eb5b87bb69a933",
+    "senha_hash": "34d77b801699ce477ac3b71af441f8f1f58c9a1a429b55ae3f8d89a6649a9dd0",
+    "numero": "97368960",
+    "saldo": "0.00",
+    "cofrinho": "0.00",
+    "limite_pix_diario": "5000.00",
+    "chaves_pix": {},
+    "cartoes": [],
+    "transacoes": [],
+    "tentativas_falhas": 0,
+    "bloqueada": false
+  }
+}
